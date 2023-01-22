@@ -16,6 +16,9 @@ const App = () => {
     },{
       name:'testing purple',
       color:'purple'
+    },{
+      name:'testing black',
+      color:'black'
     }
   ]
   return (
